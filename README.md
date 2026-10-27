@@ -4,7 +4,7 @@ Themes UTS Fiza
 Themes UTS Fiza
 
 ## 2. Deskripsi
-Themes UTS Fiza merupakan tema WordPress yang dikembangkan untuk memenuhi tugas UTS. Tema ini mengusung desain modern tech dengan kombinasi warna hijau sage dan hijau tua. Tampilan dibuat sederhana, rapi, dan responsif agar nyaman digunakan untuk menampilkan informasi, artikel, dan cerita pribadi.
+Themes UTS Fiza merupakan tema WordPress yang dikembangkan untuk memenuhi tugas UTS dengan mengusung desain modern tech dan kombinasi warna hijau sage serta hijau tua. Tema ini dirancang dengan tampilan yang sederhana, rapi, dan responsif sehingga nyaman digunakan di berbagai perangkat. Selain itu, tema ini dilengkapi dengan halaman utama, daftar artikel, halaman detail artikel, menu navigasi, dan sidebar untuk memudahkan pengunjung menjelajahi website. Themes UTS Fiza dibuat sebagai website pribadi dan informasi yang dapat digunakan untuk berbagi cerita, pengalaman, pengetahuan, serta berbagai informasi yang bermanfaat bagi pembaca.
 
 ## 3. Fitur
 - Tampilan halaman utama dengan desain modern.
